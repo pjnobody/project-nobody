@@ -11,11 +11,14 @@
 
 If you're new here, start here.
 
-📘 **[Builder Guide](docs/Project-Nobody-Builder-Guide-v1.0.pdf)**
+📘 **[Builder Guide](docs/Project-Nobody-Builder-Guide-v1.0.pdf)**  
+Learn the philosophy and operating principles of Project Nobody.
 
-📖 **[Project Bible](docs/Project-Nobody-Project-Bible-v1.0.pdf)**
+📖 **[Project Bible](docs/Project-Nobody-Project-Bible-v1.0.pdf)**  
+Understand the long-term vision and foundation of the movement.
 
-🎨 **[Document Style Guide](docs/Project-Nobody-Document-Style-Guide-v1.0.pdf)**
+🎨 **[Document Style Guide](docs/Project-Nobody-Document-Style-Guide-v1.0.pdf)**  
+Maintain consistency across all Project Nobody documentation.
 
 💬 **[Join our Discord](https://discord.gg/NSSTyYZKn)**
 
