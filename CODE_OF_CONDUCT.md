@@ -1,11 +1,15 @@
 # Code of Conduct
 
-Be respectful.
+We build together.
 
-Build honestly.
+Treat everyone with respect.
 
-Criticize ideas, not people.
+Criticize ideas.
+
+Never attack people.
 
 Help newcomers.
 
-Leave the community better than you found it.
+Document honestly.
+
+Leave ego outside.
