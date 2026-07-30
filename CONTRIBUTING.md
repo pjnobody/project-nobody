@@ -1,13 +1,17 @@
 # Contributing
 
-Project Nobody welcomes builders.
+Welcome Builder.
+
+Project Nobody is open to everyone who wants to build.
 
 You can contribute by:
 
-- Sharing ideas
-- Reporting issues
 - Improving documentation
-- Creating discussions
-- Building together
+- Reporting issues
+- Sharing ideas
+- Participating in discussions
+- Helping other builders
 
-Everyone starts somewhere.
+The goal is simple:
+
+Leave the project better than you found it.
