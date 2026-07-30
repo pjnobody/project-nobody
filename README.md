@@ -7,6 +7,30 @@
 
 ---
 
+# Quick Start
+
+If you're new here, start with these resources:
+
+📘 **Builder Guide**
+- Learn the philosophy and operating principles of Project Nobody.
+
+📖 **Project Bible**
+- Explore the long-term vision and foundation of the project.
+
+💬 **Discord Community**
+- Meet builders, ask questions, and build together.
+
+🐦 **Follow on X**
+- Stay updated with public progress and new episodes.
+
+🚀 **Start Building**
+- Don't wait for permission.
+- Build something.
+- Document it.
+- Share what you learn.
+
+---
+
 ## What is Project Nobody?
 
 Project Nobody is an open documentation movement.
