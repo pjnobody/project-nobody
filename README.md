@@ -9,19 +9,17 @@
 
 # Quick Start
 
-If you're new here, start with these resources:
+If you're new here, start here.
 
-📘 **Builder Guide**
-- Learn the philosophy and operating principles of Project Nobody.
+📘 **[Builder Guide](docs/Project-Nobody-Builder-Guide-v1.0.pdf)**
 
-📖 **Project Bible**
-- Explore the long-term vision and foundation of the project.
+📖 **[Project Bible](docs/Project-Nobody-Project-Bible-v1.0.pdf)**
 
-💬 **Discord Community**
-- Meet builders, ask questions, and build together.
+🎨 **[Document Style Guide](docs/Project-Nobody-Document-Style-Guide-v1.0.pdf)**
 
-🐦 **Follow on X**
-- Stay updated with public progress and new episodes.
+💬 **[Join our Discord](https://discord.gg/NSSTyYZKn)**
+
+🐦 **[Follow on X](https://x.com/pjnobody)**
 
 🚀 **Start Building**
 - Don't wait for permission.
